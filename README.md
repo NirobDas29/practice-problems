@@ -25,6 +25,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -34,4 +35,9 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NirobDas29/practice-problems/tree/master/0027-remove-element) |
+| [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
