@@ -12,11 +12,13 @@ Here the codes that I practice and solved problems in different online judge.
 | [0053-maximum-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NirobDas29/practice-problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,4 +53,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/NirobDas29/practice-problems/tree/master/1925-count-square-sum-triples) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
