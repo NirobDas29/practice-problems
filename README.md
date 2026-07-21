@@ -8,6 +8,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0001-two-sum](https://github.com/NirobDas29/practice-problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/NirobDas29/practice-problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -41,5 +42,6 @@ Here the codes that I practice and solved problems in different online judge.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
