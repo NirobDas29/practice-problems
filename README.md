@@ -29,6 +29,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
+| [1925-count-square-sum-triples](https://github.com/NirobDas29/practice-problems/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -44,4 +45,8 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/NirobDas29/practice-problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
