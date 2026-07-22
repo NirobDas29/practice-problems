@@ -57,4 +57,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/NirobDas29/practice-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
