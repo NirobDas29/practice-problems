@@ -14,6 +14,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
