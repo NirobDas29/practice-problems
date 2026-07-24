@@ -7,6 +7,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NirobDas29/practice-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NirobDas29/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/NirobDas29/practice-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0053-maximum-subarray) |
@@ -22,6 +23,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NirobDas29/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NirobDas29/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 ## Enumeration
