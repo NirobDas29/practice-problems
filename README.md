@@ -15,6 +15,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirobDas29/practice-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirobDas29/practice-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NirobDas29/practice-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -93,4 +95,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirobDas29/practice-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
