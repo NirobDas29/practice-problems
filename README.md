@@ -14,6 +14,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirobDas29/practice-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -110,4 +111,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
