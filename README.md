@@ -12,6 +12,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/NirobDas29/practice-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
@@ -115,4 +116,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/NirobDas29/practice-problems/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
