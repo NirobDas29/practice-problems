@@ -16,6 +16,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
+| [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirobDas29/practice-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -37,6 +38,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0053-maximum-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 | [1925-count-square-sum-triples](https://github.com/NirobDas29/practice-problems/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NirobDas29/practice-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -120,4 +123,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/NirobDas29/practice-problems/tree/master/0137-single-number-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
