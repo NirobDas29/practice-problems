@@ -61,6 +61,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -127,4 +129,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
