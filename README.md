@@ -25,6 +25,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NirobDas29/practice-problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
@@ -94,6 +96,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
