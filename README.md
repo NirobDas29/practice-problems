@@ -100,6 +100,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +137,12 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
