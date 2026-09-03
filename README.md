@@ -16,6 +16,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0004-median-of-two-sorted-arrays](https://github.com/NirobDas29/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
 | ------- |
