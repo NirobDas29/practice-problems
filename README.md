@@ -47,6 +47,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
@@ -71,6 +72,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NirobDas29/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
 ## Enumeration
@@ -147,4 +149,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
